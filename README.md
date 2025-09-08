@@ -36,7 +36,7 @@ CrossGuess demonstrates the power of **Settlement** - a revolutionary approach t
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-repo/crossguess-demo.git
+git clone git@github.com:moonshotcommons/cross-guess-game.git
 cd crossguess-demo
 npm install
 ```
